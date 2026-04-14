@@ -1,1 +1,3 @@
-This is my READ me file
+This is my README file
+
+Practising Gut pull
