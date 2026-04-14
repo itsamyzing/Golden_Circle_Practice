@@ -1,3 +1,3 @@
 This is my README file
 
-Practising Gut pull
+Practising Git pull
